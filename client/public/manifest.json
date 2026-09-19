@@ -1,0 +1,21 @@
+{
+  "short_name": "KisanGenie",
+  "name": "KisanGenie AI Assistant",
+  "description": "Your AI agricultural expert for disease detection, crop recommendations, and farming advice.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#16a34a",
+  "background_color": "#f9fafb"
+}
